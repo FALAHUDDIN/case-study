@@ -4,12 +4,17 @@
 
 1. Fix "archive" functionality
 2. Add "sender" and "avatar" with an image for each message (displayed in the message details)
-3. Add unit test for MessageList
-4. Make a short list of what you would improve / do differently 
+3. Add a simple search filter for the messages (search subject and message)
+4. Add unit test for MessageList
+5. Make a short list of what you would improve / do differently 
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `yarn`
+
+Installs all required dependencies.
 
 ### `yarn start`
 
