@@ -2,6 +2,7 @@ import React from 'react';
 import './App.scss';
 import {Container, Grid} from "@material-ui/core";
 import createSagaMiddleware from 'redux-saga';
+import MessageSearch from "./components/MessageSearch/MessageSearch";
 import MessageDetails from "./components/MessageDetails/MessageDetails";
 import MessageList from "./components/MessageList/MessageList";
 import rootSaga from "./state/sagas";
@@ -22,6 +23,9 @@ function App() {
                     <Grid container spacing={1}>
                         <Grid item xs={12}>
                             <MessageHeader/>
+                        </Grid>
+                        <Grid item xs={12}>
+                            <MessageSearch/>
                         </Grid>
                         <Grid item xs={12} sm={4}>
                             <MessageList/>

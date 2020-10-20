@@ -6,6 +6,7 @@ export const actionIds = {
     MESSAGE_MARK_READ: 'MESSAGE_MARK_READ',
     MESSAGE_MARK_UNREAD: 'MESSAGE_MARK_UNREAD',
     MESSAGE_ARCHIVE: 'MESSAGE_ARCHIVE',
+    MESSAGE_FILTER: 'MESSAGE_FILTER',
 };
 
 export interface BaseAction {

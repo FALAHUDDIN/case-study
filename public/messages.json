@@ -2,6 +2,8 @@
   "messages": [
     {
       "id": 1,
+      "sender": "Falah",
+      "avatar": "logo192.png",
       "subject": "This is a test",
       "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mauris nibh, dictum id imperdiet ac, porttitor eget lacus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla facilisi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras hendrerit nec urna sed dapibus. Aenean interdum malesuada enim nec vehicula. Proin facilisis in sem ut ultrices.",
       "received": "10/01/2020",
@@ -10,6 +12,8 @@
     },
     {
       "id": 2,
+      "sender": "Syed",
+      "avatar": "../../../public/logo192.png",
       "subject": "Yet another testmail",
       "message": "Morbi porttitor mi eu molestie dapibus. Quisque ornare augue vitae ante pretium elementum. In imperdiet justo vitae ligula lacinia, sit amet ultrices augue elementum. Donec ullamcorper libero vel mi dignissim mollis. Curabitur eget magna sed dui vulputate sollicitudin sit amet eget urna. Nunc posuere erat in tortor volutpat maximus. In imperdiet pulvinar lectus, aliquam sodales mi gravida quis. Suspendisse aliquam condimentum erat sed viverra. Phasellus sem diam, iaculis sed tincidunt et, sodales et mauris.",
       "received": "10/02/2020",
@@ -18,6 +22,8 @@
     },
     {
       "id": 3,
+      "sender": "Tobias",
+      "avatar": "hh",
       "subject": "[SPAM] You won 1 Million Dollars",
       "message": "Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus gravida consectetur quam vitae pulvinar. Integer mattis sem lectus, vitae pretium tortor lobortis nec. Aenean quam orci, imperdiet non turpis id, vestibulum semper nisl. Morbi blandit vitae felis eget gravida. Nunc ut sem pharetra, faucibus ligula sed, pulvinar nibh. Ut mollis non felis quis ullamcorper. Cras pellentesque blandit tellus eget varius. Donec non enim in orci vestibulum maximus vitae sed nibh. Praesent tincidunt, nunc a scelerisque mollis, lectus sapien semper felis, sit amet rhoncus elit neque at ante. Suspendisse a lacinia neque. Praesent auctor turpis id urna cursus pharetra. Praesent lobortis elit nulla, dignissim maximus massa porta suscipit. Morbi dapibus ullamcorper tortor, nec molestie tellus tristique nec. Integer vel nisl eu tortor elementum maximus. Cras consequat tortor id nisl eleifend vehicula.",
       "received": "10/02/2020",
